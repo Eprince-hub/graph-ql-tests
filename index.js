@@ -1,0 +1,7 @@
+const books = [
+  {
+    id: 1,
+    title: 'The Hobbit',
+    author: 'J.R.R. Tolkien',
+  },
+];

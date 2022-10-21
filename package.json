@@ -1,0 +1,14 @@
+{
+  "name": "upleveled-graph-ql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Eprince-hub/graph-ql-tests.git",
+  "author": "Victor Ejike Nwosu <ejikello123@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
